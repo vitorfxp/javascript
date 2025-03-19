@@ -10,4 +10,9 @@ function teste(){
 
 teste()
 
+
+const curso = "javascript"
+
+console.log(curso)
+
   
